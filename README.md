@@ -10,20 +10,13 @@
 I'm a student at Epitech
 </h4>
 
-<hr/> 
-
-## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShellRio&theme=algolia" alt="ShellRio" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShellRio&theme=algolia&layout=compact" alt="ShellRio" /></p>
-
-<br>
 <hr/>
 
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/ShellRio"><img
       src="https://github-profile-trophy.vercel.app/?username=ShellRio&row=1&column=3&theme=algolia" alt="ShellRio" /></a>  </p>
 
-<!-- algolia -->
+
 <br>
 <hr/>
 
